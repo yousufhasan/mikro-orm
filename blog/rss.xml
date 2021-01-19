@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MikroORM Blog</title>
+        <link>https://mikro-orm.io/blog</link>
+        <description>MikroORM Blog</description>
+        <lastBuildDate>Tue, 13 Oct 2020 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MikroORM 4.1: Let’s talk about performance]]></title>
+            <link>https://mikro-orm.io/blog/mikro-orm-4-1-released</link>
+            <guid>mikro-orm-4-1-released</guid>
+            <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[I just shipped version 4.1 of MikroORM,]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MikroORM 4: Filling the Gaps]]></title>
+            <link>https://mikro-orm.io/blog/mikro-orm-4-released</link>
+            <guid>mikro-orm-4-released</guid>
+            <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[After 4 months of active development, I am thrilled to announce the release of MikroORM 4. When I started to work on v4, the goal was to make it relatively small release, mainly to drop support for TypeScript 3.6 and Node.js 8, and to split the project into multiple packages, so we can have more fine grained control over the dependencies (mainly because of ts-morph having TS as a runtime dependency).]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MikroORM 3: Knex.js, CLI, Schema Updates, Entity Generator and more…]]></title>
+            <link>https://mikro-orm.io/blog/mikro-orm-3-released</link>
+            <guid>mikro-orm-3-released</guid>
+            <pubDate>Thu, 16 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[New major version of the TypeScript ORM has been released, read about its new features and breaking changes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Handling Transactions and Concurrency in MikroORM]]></title>
+            <link>https://mikro-orm.io/blog/handling-transactions-and-concurrency-in-mikroorm</link>
+            <guid>handling-transactions-and-concurrency-in-mikroorm</guid>
+            <pubDate>Tue, 18 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[How to handle transactions and concurrency with ease.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Introducing MikroORM, TypeScript data-mapper ORM with Identity Map]]></title>
+            <link>https://mikro-orm.io/blog/introducing-mikroorm-typescript-data-mapper-orm-with-identity-map</link>
+            <guid>introducing-mikroorm-typescript-data-mapper-orm-with-identity-map</guid>
+            <pubDate>Mon, 08 Apr 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[This might be the ORM you’ve been looking for…]]></description>
+        </item>
+    </channel>
+</rss>
