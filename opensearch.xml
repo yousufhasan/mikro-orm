@@ -7,5 +7,5 @@
   <Image width="16" height="16" type="image/x-icon">https://mikro-orm.io/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://mikro-orm.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://mikro-orm.io/opensearch.xml" />
-  <moz:SearchForm>https://mikro-orm.io</moz:SearchForm>
+  <moz:SearchForm>https://mikro-orm.io/</moz:SearchForm>
 </OpenSearchDescription>
